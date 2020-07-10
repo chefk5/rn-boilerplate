@@ -1,1 +1,1 @@
-# rn-boilerplate
+# react native boilerplate
